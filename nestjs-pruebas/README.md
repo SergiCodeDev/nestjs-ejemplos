@@ -217,7 +217,6 @@ Para generar un middleware:
 ```bash
 npx nest g middleware ruta/nombre-middleware
 ```
-- ``
 
 Ejemplo:
 
